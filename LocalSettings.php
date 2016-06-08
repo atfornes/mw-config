@@ -710,6 +710,7 @@ $wgConf->settings = array(
 		'vrgowiki' => true,
 		'walthamstowlabourwiki' => true,
 		'webflowwiki' => true,
+		'wikihoyo' => true,
 	),
 	'wmgUseVariables' => array(
 		'default' => false,
